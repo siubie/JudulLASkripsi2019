@@ -8,6 +8,7 @@ Tawaran Judul LA dan Skripsi Untuk Tahun 2019/2020
 2. Website Availability Monitoring Menggunakan Nodejs dan Mongo Db
 3. Android App menggunakan FFMPEG video dan mp3
 4. Instagram post creator menggunakan fabricjs atau https://konvajs.org/docs/ goal miniatur nya ini https://pixteller.com/
+5. Aplikasi Review Mobil di android lengkap dengan backend dan rest api nya.
 
 # Skripsi D4
 
