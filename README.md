@@ -24,6 +24,10 @@ menggunakan fabricjs atau https://konvajs.org/docs/ goal miniatur nya ini https:
 
 ## Aplikasi Review Mobil di android lengkap dengan backend dan rest api nya.
 
+## Google Play Store Analytics Top New Free
+
+Analytics untuk top new free app di google play store, backend scraper disediakan tinggal build front end nya pake react / angular.
+
 # Skripsi D4
 
 ## Dokument Tagger
