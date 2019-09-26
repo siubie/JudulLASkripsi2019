@@ -28,8 +28,14 @@ menggunakan fabricjs atau https://konvajs.org/docs/ goal miniatur nya ini https:
 
 Analytics untuk top new free app di google play store, backend scraper disediakan tinggal build front end nya pake react / angular.
 
+## Repository Data Dosen JTI
+
+Repository data dosen JTI Polinema, menggunakan konsep backend dan front end, desain db sudah disediakan silahkan memilih framework yang digunakan backend : laravel/nodejs/golang frontend : reactjs/angular/vue
+
 # Skripsi D4
 
 ## Dokument Tagger
 
 Melakukan operasi ocr pada dokumen dan melakukan tagging terhadap dokumen tersebut, ada 2 sistem sistem android sebagai front end untuk mengirim foto ke backend (bisa python / nodejs) yang akan melakukan operasi ocr dan proses tagging pada dokumen. 2.
+
+##
