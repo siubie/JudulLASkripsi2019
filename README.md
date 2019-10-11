@@ -38,4 +38,10 @@ Repository data dosen JTI Polinema, menggunakan konsep backend dan front end, de
 
 Melakukan operasi ocr pada dokumen dan melakukan tagging terhadap dokumen tersebut, ada 2 sistem sistem android sebagai front end untuk mengirim foto ke backend (bisa python / nodejs) yang akan melakukan operasi ocr dan proses tagging pada dokumen. 2.
 
-##
+## Analisis dan Pengamanan Server Auto Grader
+
+Melakukan analisis dan pengamanan untuk server auto grader untuk matakuliah pemrograman, kode program sudah disediakan yang perlu dilakukan adalah menganalisa celah keamanan dan melakukan pengamanan yang tepat.
+
+## Penentuan rute tol menggunakan metode graph
+
+Membuatkan backend service untuk menentukan rute tol dari titik berangkat ke titik tujuan, service ini menerima input titik berangkat dan titik tujuan kemudian memberikan rekomendasi gerbang tol mana yang harus di masuki, kapan harus pindah tol dan kapan keluar tol serta menampilkan estimasi biaya keseluruhan.
