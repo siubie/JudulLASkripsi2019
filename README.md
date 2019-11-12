@@ -50,6 +50,6 @@ Melakukan analisis dan pengamanan untuk server auto grader untuk matakuliah pemr
 
 Membuatkan backend service untuk menentukan rute tol dari titik berangkat ke titik tujuan, service ini menerima input titik berangkat dan titik tujuan kemudian memberikan rekomendasi gerbang tol mana yang harus di masuki, kapan harus pindah tol dan kapan keluar tol serta menampilkan estimasi biaya keseluruhan.
 
-## Line E Commerce Chatbot Menggunakan Finite state Machine
+## Line E Commerce Chatbot Menggunakan Finite state Machine(Taken)
 
 Solusi e commerce berbasis chatbot untuk line.
